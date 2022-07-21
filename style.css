@@ -453,7 +453,7 @@ footer ul:nth-child(4) li a {
   }
 
   footer ul:nth-child(4) li {
-    background: #969696;
+    background: blue;
     width: 30px;
     height: 30px;
     border-radius: 50%;
